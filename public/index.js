@@ -1,10 +1,3 @@
-/*
- * User : murse
- * Date : 12.09.2021
- * Time : 12:40
- * Editor : Visual Studio Code Editor
- */
-
 import React, {Component} from 'react';
 //import {View, Text} from 'react-native';
 import {Router, Scene, Stack} from 'react-native-router-flux';
